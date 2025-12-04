@@ -1,0 +1,610 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\dataaccess\\daproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\daproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\dataaccess\\dareturnrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\dareturnrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\dataaccess\\dauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\dauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\dataaccess\\dacheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\dacheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\controllers\\returnrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\returnrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\dataaccess\\dawishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\dawishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\updatesubcategorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\updatesubcategorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\updateproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\updateproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\subcategorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\subcategorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\returnrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\returnrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\productreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\productreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\placeorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\placeorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\orderitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\orderitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\dataaccess\\dacart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\dacart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\sqlhelper\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\sqlhelper\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\dataaccess\\dacategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\dacategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\controllers\\checkoutcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\checkoutcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|d:\\dts\\liara (1)\\liara\\backend\\backend\\backend\\webapplication1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5130827-1881-40B4-82E4-F022AB63F5B9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DTS\\liara (1)\\liara\\backend\\WebApplication1\\Migrations\\20250619051715_FixDecimalPrecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DTS\\liara (1)\\liara\\backend\\WebApplication1\\Migrations\\20250619051453_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAProduct.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DAProduct.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\DAProduct.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DAProduct.cs*",
+              "RelativeToolTip": "WebApplication1\\DataAccess\\DAProduct.cs*",
+              "ViewState": "AgIAAE8CAAAAAAAAAAAIwGECAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:25:43.128Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAUser.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DAUser.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\DAUser.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DAUser.cs",
+              "RelativeToolTip": "WebApplication1\\DataAccess\\DAUser.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAxwI4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:10:38.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SubCategoryModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\SubCategoryModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\SubCategoryModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\SubCategoryModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\SubCategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:53:04.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAqwH8BAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:55:12.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\LoginModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:58:14.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "productController.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\productController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\productController.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\productController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\productController.cs",
+              "ViewState": "AgIAAEADAAAAAAAAAAAuwFEDAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:53:34.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAReturnRequest.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DAReturnRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\DAReturnRequest.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DAReturnRequest.cs",
+              "RelativeToolTip": "WebApplication1\\DataAccess\\DAReturnRequest.cs",
+              "ViewState": "AgIAABwCAAAAAAAAAAAgwEkBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:05:49.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T11:21:47.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DACheckout.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DACheckout.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\DACheckout.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DACheckout.cs",
+              "RelativeToolTip": "WebApplication1\\DataAccess\\DACheckout.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:19:29.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReturnRequestController.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\ReturnRequestController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ReturnRequestController.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\ReturnRequestController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ReturnRequestController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:06:49.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateProductModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\UpdateProductModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\UpdateProductModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\UpdateProductModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\UpdateProductModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:40:11.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\UserModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\UserModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:50:23.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateSubCategoryModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\UpdateSubCategoryModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\UpdateSubCategoryModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\UpdateSubCategoryModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\UpdateSubCategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:03:50.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DAWishlist.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DAWishlist.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\DAWishlist.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DAWishlist.cs",
+              "RelativeToolTip": "WebApplication1\\DataAccess\\DAWishlist.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAUwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T03:14:47.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T04:03:04.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReturnRequestModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\ReturnRequestModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ReturnRequestModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\ReturnRequestModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ReturnRequestModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:05:23.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResetPasswordModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\ResetPasswordModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ResetPasswordModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\ResetPasswordModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ResetPasswordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:52:00.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "registerModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\registerModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\registerModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\registerModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\registerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:47:28.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductReviewModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\ProductReviewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ProductReviewModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\ProductReviewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ProductReviewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:23:33.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\ProductModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T04:53:39.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlaceOrderViewModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\PlaceOrderViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\PlaceOrderViewModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\PlaceOrderViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\PlaceOrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:18:52.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\OrderModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\OrderModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:13:15.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderItemModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\OrderItemModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\OrderItemModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\OrderItemModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\OrderItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:59:46.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CategoryModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:50:30.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartItemModel.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\CartItemModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CartItemModel.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Models\\CartItemModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CartItemModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:46:07.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DACart.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DACart.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\DACart.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DACart.cs",
+              "RelativeToolTip": "WebApplication1\\DataAccess\\DACart.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:06:12.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SqlHelper.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\sqlHelper\\SqlHelper.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\sqlHelper\\SqlHelper.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\sqlHelper\\SqlHelper.cs",
+              "RelativeToolTip": "WebApplication1\\sqlHelper\\SqlHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:56:15.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:57:15.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DACategory.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DACategory.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\DACategory.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\DataAccess\\DACategory.cs",
+              "RelativeToolTip": "WebApplication1\\DataAccess\\DACategory.cs",
+              "ViewState": "AgIAACECAAAAAAAAAAAYwDICAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:14:21.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CheckoutController .cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\CheckoutController .cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CheckoutController .cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\CheckoutController .cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CheckoutController .cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAuwPQAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:09:19.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:17:56.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WishlistController.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WishlistController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T03:22:26.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:32:04.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\backend\\backend\\WebApplication1\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAzwJcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:57:17.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250619051453_InitialCreate.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\WebApplication1\\Migrations\\20250619051453_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\WebApplication1\\Migrations\\20250619051453_InitialCreate.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\WebApplication1\\Migrations\\20250619051453_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\WebApplication1\\Migrations\\20250619051453_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:14:53.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250619051715_FixDecimalPrecision.cs",
+              "DocumentMoniker": "D:\\DTS\\liara (1)\\liara\\backend\\WebApplication1\\Migrations\\20250619051715_FixDecimalPrecision.cs",
+              "RelativeDocumentMoniker": "..\\..\\WebApplication1\\Migrations\\20250619051715_FixDecimalPrecision.cs",
+              "ToolTip": "D:\\DTS\\liara (1)\\liara\\backend\\WebApplication1\\Migrations\\20250619051715_FixDecimalPrecision.cs",
+              "RelativeToolTip": "..\\..\\WebApplication1\\Migrations\\20250619051715_FixDecimalPrecision.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:17:15.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPwAAAAAAAAAAIAwwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-17T09:40:04.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

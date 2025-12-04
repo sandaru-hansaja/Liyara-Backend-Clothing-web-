@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\backendpub</_PublishTargetUrl>
+    <History>True|2025-08-05T05:40:23.1522091Z||;True|2025-07-24T10:12:04.6423209+05:30||;True|2025-07-23T16:18:09.3819891+05:30||;True|2025-07-23T16:06:44.9854870+05:30||;True|2025-07-23T15:16:28.6815202+05:30||;True|2025-07-22T09:47:34.1342915+05:30||;True|2025-07-22T09:46:47.0798374+05:30||;True|2025-07-21T16:34:53.0601967+05:30||;True|2025-07-21T16:20:00.5550167+05:30||;True|2025-07-21T14:45:12.9034656+05:30||;True|2025-07-21T13:25:12.0705592+05:30||;True|2025-07-21T11:12:28.6989215+05:30||;True|2025-07-16T14:29:45.4980102+05:30||;True|2025-07-14T09:17:23.2531507+05:30||;True|2025-07-11T14:04:01.0189173+05:30||;True|2025-07-09T14:34:18.8854103+05:30||;True|2025-07-09T14:23:40.6095405+05:30||;True|2025-07-04T10:01:10.6129219+05:30||;True|2025-07-03T17:08:40.0084714+05:30||;True|2025-07-03T16:56:43.6371575+05:30||;True|2025-07-03T14:18:14.2281368+05:30||;True|2025-06-26T14:57:22.1768776+05:30||;True|2025-06-26T14:36:28.2428293+05:30||;True|2025-06-26T14:28:14.8917033+05:30||;True|2025-06-26T13:58:27.7362077+05:30||;True|2025-06-26T13:41:40.4907778+05:30||;True|2025-06-26T13:26:58.0974961+05:30||;True|2025-06-26T11:59:51.6996850+05:30||;True|2025-06-26T11:41:47.1535651+05:30||;True|2025-06-26T11:19:18.3726389+05:30||;True|2025-06-26T10:55:17.9261333+05:30||;True|2025-06-26T10:22:28.4811500+05:30||;True|2025-06-26T09:24:46.8070024+05:30||;True|2025-06-26T09:03:40.6174111+05:30||;True|2025-06-25T10:11:42.3504773+05:30||;True|2025-06-25T09:22:50.2679728+05:30||;True|2025-06-25T08:45:13.7247383+05:30||;True|2025-06-24T16:35:14.1720305+05:30||;True|2025-06-24T14:48:45.9608463+05:30||;True|2025-06-24T14:28:06.5333193+05:30||;True|2025-04-10T15:03:49.0241464+05:30||;True|2025-04-10T14:35:46.9960774+05:30||;True|2025-04-10T14:32:31.9184742+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Models/CartItemModel.cs">
+      <publishTime>06/23/2025 14:22:57</publishTime>
+    </File>
+    <File Include="Models/CategoryModel.cs">
+      <publishTime>06/23/2025 14:23:47</publishTime>
+    </File>
+    <File Include="Models/LoginModel.cs">
+      <publishTime>06/23/2025 14:22:57</publishTime>
+    </File>
+    <File Include="Models/OrderItemModel.cs">
+      <publishTime>06/23/2025 14:23:47</publishTime>
+    </File>
+    <File Include="Models/OrderModel.cs">
+      <publishTime>06/23/2025 14:23:47</publishTime>
+    </File>
+    <File Include="Models/PlaceOrderViewModel.cs">
+      <publishTime>06/23/2025 14:22:57</publishTime>
+    </File>
+    <File Include="Models/registerModel.cs">
+      <publishTime>06/18/2025 09:23:30</publishTime>
+    </File>
+    <File Include="Models/ResetPasswordModel.cs">
+      <publishTime>06/23/2025 14:22:57</publishTime>
+    </File>
+    <File Include="Models/SubCategoryModel.cs">
+      <publishTime>06/23/2025 14:57:18</publishTime>
+    </File>
+    <File Include="Models/UpdateProductModel.cs">
+      <publishTime>06/30/2025 09:10:43</publishTime>
+    </File>
+    <File Include="Models/UserModel.cs">
+      <publishTime>06/23/2025 14:22:57</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
